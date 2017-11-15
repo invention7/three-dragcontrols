@@ -20,6 +20,6 @@
   "author": "keqingrong <keqingrong1992@gmail.com> (https://keqingrong.github.io/)",
   "license": "MIT",
   "peerDependencies": {
-    "three": "~0.86.0"
+    "three": "~0.88.0"
   }
 }
